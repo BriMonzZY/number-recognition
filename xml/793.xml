@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_out</folder>
+	<filename>793.jpg</filename>
+	<path>C:\Users\brimon\Desktop\dataset_out\793.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>79</ymin>
+			<xmax>167</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

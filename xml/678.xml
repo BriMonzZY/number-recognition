@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_out</folder>
+	<filename>678.jpg</filename>
+	<path>C:\Users\brimon\Desktop\dataset_out\678.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>101</ymin>
+			<xmax>139</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
